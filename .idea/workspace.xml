@@ -41,31 +41,39 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.StaticDemo">
-    <configuration name="NonStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonStatic" />
+  <component name="RunManager" selected="Application.CommandLineArgs">
+    <configuration name="CommandLineArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommandLineArgs" />
       <module name="javaBasics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectRefDemo" />
+    <configuration name="ExplicitTypeCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExplicitTypeCast" />
       <module name="javaBasics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static" />
+    <configuration name="PrimitiveAndObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveAndObject" />
       <module name="javaBasics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticDemo" />
+    <configuration name="StringAndObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAndObject" />
+      <module name="javaBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableDemo" />
       <module name="javaBasics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,10 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StaticDemo" />
-        <item itemvalue="Application.ObjectRefDemo" />
-        <item itemvalue="Application.NonStatic" />
-        <item itemvalue="Application.Static" />
+        <item itemvalue="Application.CommandLineArgs" />
+        <item itemvalue="Application.StringAndObject" />
+        <item itemvalue="Application.PrimitiveAndObject" />
+        <item itemvalue="Application.VariableDemo" />
+        <item itemvalue="Application.ExplicitTypeCast" />
       </list>
     </recent_temporary>
   </component>
